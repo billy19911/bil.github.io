@@ -1,7 +1,6 @@
 {
-    "version":  "1.0.0",
-    "zip_url":  "https://billy19911.github.io/bil.github.io/releases/trading-server-1.0.0.zip",
-    "notes":  "Initial buyer update feed",
-    "force":  true,
-    "generated_at":  "2026-04-02T20:38:42"
+  "version": "1.0.0",
+  "ex5_url": "https://billy19911.github.io/bil.github.io/releases/EAMonsterMT5-XAU-M1-MASTER-1.0.0.ex5",
+  "notes": "Initial EA core release",
+  "force": true
 }
