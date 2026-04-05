@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "ex5_url": "https://github.com/billy19911/bil.github.io/releases/download/v1.0.0/EAMonsterMT5-XAU-M1-MASTER.ex5",
+  "ex5_url": "https://raw.githubusercontent.com/billy19911/bil.github.io/main/releases/EAMonsterMT5-XAU-M1-MASTER.ex5",
   "notes": "Initial EA core release",
   "force": true
 }
